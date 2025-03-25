@@ -12,7 +12,8 @@ while num < tel:
     telefono = input(f"Ingrese el teléfono {num + 1}: ")
     telefonos.append(telefono)
     num += 1
-    
+
+
 lista.append(nom)
 lista.append(ap)
 lista.append(dni)
